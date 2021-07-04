@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15323" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15323" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:59 IST">
+      <class name="Mvnjava1.seleniumTest">
+        <test-method status="PASS" signature="browseauto()[pri:0, instance:Mvnjava1.seleniumTest@63753b6d]" name="browseauto" duration-ms="6" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseauto -->
+        <test-method status="PASS" signature="elementui()[pri:0, instance:Mvnjava1.seleniumTest@63753b6d]" name="elementui" duration-ms="0" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- Mvnjava1.seleniumTest -->
+      <class name="Mvnjava1.AppiumTest">
+        <test-method status="PASS" signature="mobileapplogin()[pri:0, instance:Mvnjava1.AppiumTest@6ddf90b0]" name="mobileapplogin" duration-ms="0" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapplogin -->
+      </class> <!-- Mvnjava1.AppiumTest -->
+      <class name="log4jdemo2.logTest">
+        <test-method status="PASS" signature="show()[pri:1, instance:log4jdemo2.logTest@3b0143d3]" name="show" duration-ms="15266" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- log4jdemo2.logTest -->
+      <class name="Mvnjava1.MBHloginTest">
+        <test-method status="PASS" signature="MBHLogin()[pri:0, instance:Mvnjava1.MBHloginTest@57536d79]" name="MBHLogin" duration-ms="0" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MBHLogin -->
+        <test-method status="PASS" signature="MBHLogout()[pri:0, instance:Mvnjava1.MBHloginTest@57536d79]" name="MBHLogout" duration-ms="0" started-at="2021-06-10T19:33:44 IST" finished-at="2021-06-10T19:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MBHLogout -->
+      </class> <!-- Mvnjava1.MBHloginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
