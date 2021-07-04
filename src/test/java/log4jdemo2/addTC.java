@@ -14,4 +14,9 @@ public class addTC {
 		{
 			System.out.println("Develop branch added");
 		}
+		@Test
+		public void branch1()
+		{
+			System.out.println("Develop again added branch added");
+		}
 }
