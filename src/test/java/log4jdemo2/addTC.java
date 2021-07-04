@@ -8,4 +8,10 @@ public class addTC {
 		{
 			System.out.println("TC added");
 		}
+		
+		@Test
+		public void branch()
+		{
+			System.out.println("Develop branch added");
+		}
 }
